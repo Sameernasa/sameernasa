@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameernasa&label=Profile%20views&color=0e75b6&style=flat" alt="sameernasa" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sameernasa" alt="sameernasa" /></a> </p>
-
 - 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **Data Structures and Algorithm**
